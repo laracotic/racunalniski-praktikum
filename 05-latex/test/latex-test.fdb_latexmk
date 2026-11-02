@@ -1,0 +1,21 @@
+# Fdb version 4
+["pdflatex"] 1793626616.67014 "c:/Users/lc70595/rp/racunalniski-praktikum/05-latex/test/latex-test.tex" "latex-test.pdf" "latex-test" 1793626625.54367 0
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
+  "C:/Program Files/MiKTeX/tex/latex/base/article.cls" 1780057299 20144 e6010938fb17dfbae90a243ad7cf351d ""
+  "C:/Program Files/MiKTeX/tex/latex/base/size10.clo" 1780057299 8448 f7d8bfe7b7a3986fbf9022b21b7800cc ""
+  "C:/Program Files/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1785671204 31015 cdb645736cb990d8b36a7f302ad8ef36 ""
+  "C:/Users/lc70595/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1793626623 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/lc70595/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1793626625 13357503 96141f8339eb6cc34e478020aca46d21 ""
+  "c:/Users/lc70595/rp/racunalniski-praktikum/05-latex/test/latex-test.tex" 1793626615 191 9558d53b20ae96c481d8bbdee94db697 ""
+  "latex-test.aux" 1793626625 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "latex-test.tex" 1793626615 191 9558d53b20ae96c481d8bbdee94db697 ""
+  (generated)
+  "latex-test.aux"
+  "latex-test.log"
+  "latex-test.pdf"
+  (rewritten before read)
